@@ -35,7 +35,7 @@ var ti={}
 
 client.on('ready', function(){
     var ms = 60000 ;
-    var setGame = ['.help','Mo3GzZa'];
+    var setGame = ['.help','Mo3GzZa','Muders The Best'];
     var i = -1;
     var j = 0;
     setInterval(function (){
@@ -126,10 +126,6 @@ ${prefix}color <number> / لختيار لون
 ${prefix}deletecolors <number> / لحذف الالوان
 **
    `,`
-@@ -126,18 +126,7 @@ ${prefix}color <number> / لختيار لون
-${prefix}deletecolors <number> / لحذف الالوان
-**
-   `,`
         ***__Music orders__***
 **
 ${prefix}play / لتشغيل أغنية برآبط أو بأسم
@@ -141,8 +137,8 @@ ${prefix}stop / لإخرآج البوت من الروم
 ${prefix}np / لمعرفة الأغنية المشغلة حآليا
 ${prefix}queue / لمعرفة قآئمة التشغيل
 **
-       ***__Games orders__***
-**
+        ***__Games orders__***
+ **       
 ${prefix}rps / حجر ورقة مقص
 ${prefix}speed / اسرع كتابة
 ${prefix}quas / اسئلة عامة
