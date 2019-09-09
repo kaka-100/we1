@@ -142,10 +142,7 @@ ${prefix}np / لمعرفة الأغنية المشغلة حآليا
 ${prefix}queue / لمعرفة قآئمة التشغيل
 **
        ***__Games orders__***
- **       
-${prefix}rps / حجر ورقة مقص
-${prefix}speed / اسرع كتابة
- **       
+**
 ${prefix}rps / حجر ورقة مقص
 ${prefix}speed / اسرع كتابة
 ${prefix}quas / اسئلة عامة
